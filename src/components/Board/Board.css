@@ -1,0 +1,10 @@
+.board {
+	display: grid;
+	grid: none / repeat(5, 1fr);
+	width: 300px;
+	height: 110px;
+	gap: 10px;
+	padding: 10px;
+	background-color: lightblue;
+	border-radius: 5px;
+}
